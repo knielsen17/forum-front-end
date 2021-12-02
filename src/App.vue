@@ -5,7 +5,7 @@
     </div>
     <router-view />
     <div id='footnote'>
-      <a href=''>Git Hub</a>
+      <a href='https://github.com/knielsen17/forum-front-end'>Git Hub</a>
     </div>
   </div>
 </template>
